@@ -43,4 +43,4 @@ app.*.map.json
 /android/app/release
 
 #  Const 상수들
-lib/const
+/lib/const
